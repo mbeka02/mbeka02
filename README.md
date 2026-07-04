@@ -1,6 +1,6 @@
 # Hey, I'm Anthony Mbeka 👋
 
-Full-stack developer with 3 years of experience building production web platforms.
+I'm a software engineer with 3 years of experience building production web platforms.
 Currently working on [Orion](https://orionramp.com), a mobile money onramp/offramp platform.
 
 ## 🛠 Tech Stack
