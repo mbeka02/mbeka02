@@ -3,7 +3,7 @@
 I'm a software engineer with 3 years of experience building production web platforms.
 Currently working on [Orion](https://orionramp.com), an onramp/offramp platform.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Go · TypeScript · JavaScript  
 **Frontend:** React · Next.js · React Native · Tailwind CSS  
@@ -12,7 +12,7 @@ Currently working on [Orion](https://orionramp.com), an onramp/offramp platform.
 **Database:** PostgreSQL  
 **Tools:** Git · GCP · GitHub Actions  
 
-## 🚀 Projects
+## Projects
 
 | Project | Description |
 |--------|-------------|
@@ -21,6 +21,6 @@ Currently working on [Orion](https://orionramp.com), an onramp/offramp platform.
 | [**Tantei**](https://tantei.vercel.app) | Marketplace for AI trading agents — React, Express, Drizzle ORM |
 | [**Atria**](https://atria-africa.vercel.app) | Fractional real estate investment platform — Next.js, Drizzle ORM, Postgres |
 
-## 📫 Get in touch
+## Get in touch
 
 [Email](mailto:antonymbeka@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anthony-mbeka-a4b968288) · [Portfolio](https://mbeka-dev.vercel.app)
