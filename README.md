@@ -7,7 +7,7 @@ Currently working on [Orion](https://orionramp.com), an onramp/offramp platform.
 
 **Languages:** Go · TypeScript · JavaScript  
 **Frontend:** React · Next.js · React Native · Tailwind CSS  
-**Backend:** Go . ExpressJS
+**Backend:** Go . NodeJS
 
 **Database:** PostgreSQL  
 **Tools:** Git · GCP · GitHub Actions  
