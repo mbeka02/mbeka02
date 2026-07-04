@@ -8,6 +8,7 @@ Currently working on [Orion](https://orionramp.com), a mobile money onramp/offra
 **Languages:** Go · TypeScript · JavaScript  
 **Frontend:** React · Next.js · React Native · Tailwind CSS  
 **Backend:** Go . ExpressJS
+
 **Database:** PostgreSQL  
 **Tools:** Git · GCP · GitHub Actions  
 
