@@ -1,7 +1,7 @@
 # Hey, I'm Anthony Mbeka 👋
 
 I'm a software engineer with 3 years of experience building production web platforms.
-Currently working on [Orion](https://orionramp.com), a mobile money onramp/offramp platform.
+Currently working on [Orion](https://orionramp.com), an onramp/offramp platform.
 
 ## 🛠 Tech Stack
 
@@ -17,9 +17,9 @@ Currently working on [Orion](https://orionramp.com), a mobile money onramp/offra
 | Project | Description |
 |--------|-------------|
 | **Lyra** | Telemedicine platform for remote healthcare in Kenya — React Native, Go, Postgres, GCP |
-| **FlowFrame** | Real-time collaborative task management — Next.js, Clerk, Postgres |
-| **Tantei** | Marketplace for AI trading agents — React, Express, Drizzle ORM |
-| **Atria** | Fractional real estate investment platform — Next.js, Drizzle ORM, Postgres |
+| [**FlowFrame**](https://flow-frame.vercel.app) | Real-time collaborative task management — Next.js, Clerk, Postgres |
+| [**Tantei**](https://tantei.vercel.app) | Marketplace for AI trading agents — React, Express, Drizzle ORM |
+| [**Atria**](https://atria-africa.vercel.app) | Fractional real estate investment platform — Next.js, Drizzle ORM, Postgres |
 
 ## 📫 Get in touch
 
